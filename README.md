@@ -7,7 +7,7 @@ A fully structured Amazon homepage clone built using HTML5 and CSS3, showcasing 
 
 🌐 Live Demo
 
- 🔗 https://mani-amazon-clone.netlify.app/
+ 🔗https://sappamani123.github.io/my-amazon/
 
 🎯 Project Objective
 
