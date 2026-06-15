@@ -640,3 +640,19 @@ button:hover{
     background-color: #131a22;
     color: #dddddd;
 }
+.scroll-banner {
+    overflow: hidden;
+    white-space: nowrap;
+}
+.scroll-banner p {
+    display: inline-block;
+    animation: scroll 10s linear infinite;
+}
+@keyframes scroll {
+    0% {
+        transform: translateX(100%);
+       }
+    100% {
+        transform: translateX(-100%);
+       }
+}
