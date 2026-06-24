@@ -27,13 +27,8 @@ body {
 }
 
 .logo{
-    /*
     background-image: url("images/amazonlogo.png");
-    background-size: cover;*/
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 27px;
+    background-size: cover;
     height: 56px;
     width: 120px;
     margin: 1px;
